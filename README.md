@@ -1,5 +1,5 @@
 
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<!-- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif) -->
 <h1 align="center">Hi 👋, I'm Prashant Kumar Upadhyay</h1>
 <h3 align="center">Developer</h3>
 <br><img align="center" alt="Coding" width="1000px" height="500vh"  src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
