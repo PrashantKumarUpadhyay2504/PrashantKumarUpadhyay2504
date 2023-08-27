@@ -10,7 +10,7 @@
 
 - 🔭 Working on project **Several Projects**
 
-- 💬 Ask me about **Web Development **
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **pkumarupadhyay0@gmail.com**
 
