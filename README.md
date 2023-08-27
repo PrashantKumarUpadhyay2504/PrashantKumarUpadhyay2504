@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashantkumarupadhyay2504" alt="prashantkumarupadhyay2504" /></a> </p>
 
-- 🔭 Working on project **Protfolio**
+- 🔭 Working on project **Several Projects**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Web Development **
 
 - 📫 How to reach me **pkumarupadhyay0@gmail.com**
 
